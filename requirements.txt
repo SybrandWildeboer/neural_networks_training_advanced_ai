@@ -3,3 +3,5 @@ scikit-learn==1.6.1
 matplotlib==3.9.4
 gensim==4.3.3
 numpy==1.26.4
+seaborn==0.13.2
+ipywidgets==8.0.4
